@@ -11,6 +11,6 @@ Icarus is the first fully data-focused shared ledger protocol to manage governan
 
 ## Contracts
 
-Please see the [contracts/](contracts) directory.
+Please see the [ERC20-contracts/](contracts) directory.
 
 The contracts written in [Solidity](https://solidity.readthedocs.io/en/develop/) and tested using [Truffle](http://truffleframework.com/) and [ganache](https://github.com/trufflesuite/ganache).
